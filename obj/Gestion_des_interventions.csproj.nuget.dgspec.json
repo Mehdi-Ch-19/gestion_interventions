@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\Desktop\\Gestion_Interventiont\\Gestion_des_interventions\\Gestion_des_interventions\\Gestion_des_interventions.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\Desktop\\Gestion_Interventiont\\Gestion_des_interventions\\Gestion_des_interventions\\Gestion_des_interventions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Gestion_Interventiont\\Gestion_des_interventions\\Gestion_des_interventions\\Gestion_des_interventions.csproj",
+        "projectName": "Gestion_des_interventions",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Gestion_Interventiont\\Gestion_des_interventions\\Gestion_des_interventions\\Gestion_des_interventions.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Gestion_Interventiont\\Gestion_des_interventions\\Gestion_des_interventions\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "MaterialSkin.2": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
